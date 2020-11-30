@@ -24,8 +24,8 @@ It is the android app where camera funtionality along with map is included. Here
 [Github link](https://github.com/nabin-g/visitingPlacesInKotlin)
 
 # Project 6: Laravel PHP project:
-Just like newspaper site it is one of the site made using PHP laravel framework:
-[Link:](https://worldpedia.info/)
+Just like newspaper site it is one of the site made using PHP laravel framework:[Github link](https://github.com/nabin-g/WorldPedia.info)
+[Site link:](https://worldpedia.info/)
 
 # Other project:
   # Object detection using python:
