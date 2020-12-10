@@ -8,20 +8,20 @@ Description: To have an interface for the veterans and military personnel with U
 [App Store:](https://play.google.com/store/apps/details?id=com.udvma.utah)
 
 My Role:
->> Developing UI screen
->> Heat map integration, Google authentication, firebse integration for push notification
->> Testing and bug fixing 
->> uploading in playstore
+1. Developing UI screen
+2. Heat map integration, Google authentication, firebse integration for push notification
+3. Testing and bug fixing 
+4. uploading in playstore
 
 # Project 2: ParkMobile android Project:
 Description: Collaborate daily with the offshore implementation team. Monitor the app post-release to ensure that it is working as expected. Collaborate with the wider team (developers, analysts, product owners, etc.) to produce acceptance criteria for user stories, providing technical and domain expertise to help drive decision-making. Work proactively to remediate adverse customer experiences.
 [App Store Link:](https://play.google.com/store/apps/details?id=net.sharewire.parkmobilev2)
 
 My Role:
->> Password reset, veify email, and recover email using Firebase API
->> Changed Firebase Push notifacation system from GCM.
->> Credit card scanning functionality
->> Create Schedulers mock using RxJava Tests and trigger TestScheduler to drive function behavior as expected
+1. Password reset, veify email, and recover email using Firebase API
+2. Changed Firebase Push notifacation system from GCM.
+3. Credit card scanning functionality
+4. Create Schedulers mock using RxJava Tests and trigger TestScheduler to drive function behavior as expected
 
 # Project 3: Image Store android app project:
 Using Android java login system using Firebase authentication person can take picture from camera or upload their gallery picture in a app. So this app is basically providing gallery like function. Firebase real database, storage, authentication has been used.
