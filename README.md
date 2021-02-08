@@ -23,19 +23,23 @@ My Role:
 3. Credit card scanning functionality
 4. Create Schedulers mock using RxJava Tests and trigger TestScheduler to drive function behavior as expected
 
-# Project 3: Image Store android app project:
+# Project 3: DogsApp
+Using android jetpack library under Androidx such as Navigation, Room database, color Palette, Preferences, Permissions, MVVM, databinding and third party library such as Butterknife, Glide, Retrofit with RxJava to make Dogs App which retrieved dogs information from back end Api and to store in Room local database and show in screen using RecyclerView. Here is the [github link:](https://github.com/nabin-g/DogsAppUsingApi)
+
+
+# Project 4: Image Store android app project:
 Using Android java login system using Firebase authentication person can take picture from camera or upload their gallery picture in a app. So this app is basically providing gallery like function. Firebase real database, storage, authentication has been used.
 here is the link for [github link](https://github.com/nabin-g/imageStoreApp)
 
-# project 4: Lineminder android app
+# project 5: Lineminder android app
 It is app for storing information of scrap produced from the industry. It is manual process so employee who is going to enter the information based on 8 digits employee id. Using jdbc library for database connection to MSSQL and the information of scrap part number, employee number, quantity, reason code has been submitted in database. 
 [Github link]()(link is private)
 
-# project 5: Visiting Places Android App in Kotlin:
+# project 6: Visiting Places Android App in Kotlin:
 It is the android app where camera funtionality along with map is included. Here the user can also select date. The title, description, date, address and image is uploaded in SQLite database. THe information is shown using recyclerview. 
 [Github link](https://github.com/nabin-g/visitingPlacesInKotlin)
 
-# Project 6: Laravel PHP project:
+# Project 7: Laravel PHP project:
 Just like newspaper site it is one of the site made using PHP laravel framework:[Github link](https://github.com/nabin-g/WorldPedia.info)
 [Site link:](https://worldpedia.info/)
 
